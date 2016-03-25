@@ -1,0 +1,12 @@
+C:\CI\FabrikamFiber_VS2015_RTM\.build\temp\Build.dll
+C:\CI\FabrikamFiber_VS2015_RTM\.build\temp\Build.pdb
+C:\CI\FabrikamFiber_VS2015_RTM\Build\obj\Debug\Build.dll
+C:\CI\FabrikamFiber_VS2015_RTM\Build\obj\Debug\Build.pdb
+C:\CI\FabrikamFiber_VS2015_RTM\Build\bin\Debug\Build.dll
+C:\CI\FabrikamFiber_VS2015_RTM\Build\bin\Debug\Build.pdb
+C:\CI\FabrikamFiber_VS2015_RTM\Build\obj\Debug\Build.csprojResolveAssemblyReference.cache
+C:\CIDemo\FabrikamFiber_VS2015_RTM\.build\temp\Build.dll
+C:\CIDemo\FabrikamFiber_VS2015_RTM\.build\temp\Build.pdb
+C:\CIDemo\FabrikamFiber_VS2015_RTM\Build\obj\Debug\Build.csprojResolveAssemblyReference.cache
+C:\CIDemo\FabrikamFiber_VS2015_RTM\Build\obj\Debug\Build.dll
+C:\CIDemo\FabrikamFiber_VS2015_RTM\Build\obj\Debug\Build.pdb
